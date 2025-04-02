@@ -1,0 +1,1 @@
+Infelizmente, no momento não possuo conhecimento sobre Vue.js e, devido a isso, não fiz o desafio 4.
